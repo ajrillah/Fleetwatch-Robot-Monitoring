@@ -4,12 +4,7 @@ import { FleetMap } from "./components/FleetMap";
 import { StatCard } from "./components/StatCard";
 import { ConnectionBadge } from "./components/ConnectionBadge";
 import {
-  Bot,
-  Activity,
-  BatteryMedium,
-  AlertTriangle,
-  Zap,
-  Play,
+  Bot
 } from "lucide-react";
 import "./App.css";
 
